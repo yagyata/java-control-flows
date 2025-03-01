@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class OddEvenNumbers {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
         // Taking input from the user
