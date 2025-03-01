@@ -11,7 +11,8 @@ public class GreatestFactorWhileLoop {
         // Checking if the number is a positive integer
         if (number <= 1) {
             System.out.println("Please enter an integer greater than 1.");
-        } else {
+        }
+	else {
             int greatestFactor = 1; // Initialize greatest factor
             int counter = number - 1; // Start from number - 1
 
